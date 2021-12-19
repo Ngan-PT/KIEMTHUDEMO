@@ -1,0 +1,16 @@
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\LINQ_CONSOLE.exe
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\LINQ_CONSOLE.deps.json
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\LINQ_CONSOLE.runtimeconfig.json
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\LINQ_CONSOLE.runtimeconfig.dev.json
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\LINQ_CONSOLE.dll
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\ref\LINQ_CONSOLE.dll
+D:\LINQ_CONSOLE\LINQ_CONSOLE\bin\Debug\net5.0\LINQ_CONSOLE.pdb
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.AssemblyInfoInputs.cache
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.AssemblyInfo.cs
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.csproj.CoreCompileInputs.cache
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.dll
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\ref\LINQ_CONSOLE.dll
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.pdb
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.genruntimeconfig.cache
+D:\LINQ_CONSOLE\LINQ_CONSOLE\obj\Debug\net5.0\LINQ_CONSOLE.csproj.AssemblyReference.cache
